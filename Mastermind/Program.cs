@@ -7,7 +7,7 @@ namespace MastermindApp
         public const int NUM_GUESSES = 12;
         const int MAX_CODE = 6666;
         const int MIN_CODE = 1111;
-        public const int MAX_DIGIT = 7;
+        public const int MAX_DIGIT = 6;
         public const int MIN_DIGIT = 1;
         public static int CODE_LENGTH = MAX_CODE.ToString().Length;
 
